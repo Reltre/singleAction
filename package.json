@@ -39,10 +39,10 @@
     "ng-annotate-webpack-plugin": "^0.2.1-pre",
     "ng-map-autocomplete": "0.0.1",
     "ngclipboard": "^1.1.1",
+    "node-sass": "^4.5.2",
     "nodemailer": "^4.0.1",
     "nodemailer-express-handlebars": "^2.0.0",
-    "node-sass": "^4.5.2",
-    "npm": "^4.0.3",
+    "npm": "^6.4.1",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
     "passport-local": "^1.0.0",
@@ -68,6 +68,6 @@
     "webpack-dev-middleware": "^1.10.1"
   },
   "engines": {
-    "node": "11.0.0"
+    "node": "10.9.0"
   }
 }
